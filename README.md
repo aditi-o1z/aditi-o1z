@@ -38,4 +38,7 @@ I am a Computer Science Student at Sipna college of engineering. I have a passio
 ## Pinned Projects
 <!-- Customize which repositories you want to pin -->
 
+## My GitHub Contributions
+![Aditi's GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=aditi-o1z&theme=dark)
+
 
