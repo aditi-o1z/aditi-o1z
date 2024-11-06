@@ -25,5 +25,17 @@ I am a Computer Science Student at Sipna college of engineering. I have a passio
 
 ## GitHub Stats
 ![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi-o1z&show_icons=true&theme=radical)
+# Hi there, I'm Aditi 👋
+
+## GitHub Stats
+![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi-o1z&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditi-o1z&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-o1z&layout=compact&theme=radical)
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=aditi-o1z&color=blue)
+
+## Pinned Projects
+<!-- Customize which repositories you want to pin -->
 
 
