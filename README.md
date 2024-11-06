@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e96ade3-28b0-4921-99b8-0f2666e44661)## Hi there 👋
+
 
 
 # Hi there, I'm Aditi Anil Devikar 👋
