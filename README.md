@@ -34,10 +34,6 @@ I am a Computer Science Student at Sipna college of engineering. I have a passio
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=aditi-o1z&color=blue)
 
-
-## Pinned Projects
-<!-- Customize which repositories you want to pin -->
-
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aditi-o1z&theme=github)
 
 
